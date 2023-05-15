@@ -8,7 +8,7 @@
 1. [Español](#español)
 2. [English](#english)
 
-## Español <a href="#"><img src="/resources/icon-spain.png" width="30" height="30" /></a>
+# Español <a href="#"><img src="/resources/icon-spain.png" width="30" height="30" /></a>
 
 # Predicción de demanda de alquileres por países
 
@@ -90,7 +90,7 @@ Se describe la presentación final del trabajo.
 
 <hr>
 
-## English <a href="#"><img src="/resources/icon-britain.png" width="30" height="30" /></a>
+# English <a href="#"><img src="/resources/icon-britain.png" width="30" height="30" /></a>
 # Rental demand forecast by country
 
 ## 1. Introduction
