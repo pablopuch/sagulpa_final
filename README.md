@@ -19,8 +19,35 @@ Se describe el contexto y la justificación del trabajo.
 Se describen los objetivos del trabajo.
 ### 3.2 Enfoque y metodología
 Se describe el enfoque y la metodología utilizada en el trabajo.
+
 ### 3.3 Planificación del Trabajo
-Se describe la planificación del trabajo.
+<table>
+  <tr>
+    <td>Hito 0:</td>
+    <td>08/05/2023 (LUN) - Presentación de la actividad</td>
+  </tr>
+  <tr>
+    <td>Hito 1:</td>
+    <td>12/05/2023 (VIE) - Propuesta del proyecto a realizar.</td>
+  </tr>
+  <tr>
+    <td>Hito 2:</td>
+    <td>18/05/2023 (JUE) - Entrega del dataset.</td>
+  </tr>
+  <tr>
+    <td>Hito 3:</td>
+    <td>24/05/2023 (MIE) - Entrenamiento y evaluación del modelo predictivo.</td>
+  </tr>
+  <tr>
+    <td>Hito 4:</td>
+    <td>30/05/2023 (MAR) - Entrega final.</td>
+  </tr>
+  <tr>
+    <td>Hito 5:</td>
+    <td>01/06/2023 (JUE) - Presentaciones.</td>
+  </tr>
+</table>
+
 ### 3.4 Recursos de sistemas utilizados
 Se describen los recursos de sistemas utilizados.
 
@@ -73,8 +100,35 @@ The context and justification for the work is described.
 The objectives of the work are described.
 ### 3.2 Approach and Methodology
 The approach and methodology used in the work is described.
+
 ### 3.3 Planning of the work
-The planning of the work is described.
+<table>
+  <tr>
+    <td>Milestone 0:</td>
+    <td>08/05/2023 (LUN) - Presentation of the activity</td>.
+  </tr>
+  <tr>
+    <td>Milestone 1:</td>
+    <td>12/05/2023 (VIE) - Proposal of the project to be carried out</td>.
+  </tr>
+  <tr>
+    <td>Milestone 2:</td>
+    <td>18/05/2023 (JUE) - Delivery of the dataset.
+  </td>
+  <tr>
+    <td>Milestone 3:</td>
+    <td>24/05/2023 (MIE) - Training and evaluation of the predictive model.
+  </tr>
+  <tr>
+    <td>Milestone 4:</td>
+    <td>30/05/2023 (MAR) - Final delivery.
+  </td>
+  <tr>
+    <td>Milestone 5:</td>
+    <td>01/06/2023 (Thu) - Presentations.
+  </tr>
+</table>
+
 ### 3.4 Systems Resources Used
 The system resources used are described.
 
