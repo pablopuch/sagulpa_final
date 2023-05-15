@@ -5,8 +5,8 @@
 </p>
 
 ## Table of Contents
-[Español](#español)
-[English](#english)
+1. [Español](#español)
+2. [English](#english)
 
 ## Español <a href="#"><img src="/resources/icon-spain.png" width="30" height="30" /></a>
 
