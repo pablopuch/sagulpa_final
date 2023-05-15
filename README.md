@@ -1,4 +1,8 @@
-![Texto alternativo de la imagen](./img/ejemplo.png)
+<p align="center">
+    <a href="https://www.sagulpa.com/">
+        <img src="/RECURSOS/Sagulpa.png" alt="Logo de Sagulpa">
+    </a>
+</p>
 
 
 # Predicción de demanda de alquileres por países
