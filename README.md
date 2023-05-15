@@ -1,10 +1,15 @@
 <p align="center">
     <a href="https://www.sagulpa.com/">
-        <img src="/RECURSOS/Sagulpa.png" alt="Logo de Sagulpa">
+        <img src="/resources/Sagulpa.png" alt="Logo de Sagulpa">
     </a>
 </p>
 
-<a href="#"><img src="/RECURSOS/icon-spain.png" width="30" height="30" /></a> 
+## Table of Contents
+[Español](#español)
+[English](#english)
+
+## Español <a href="#"><img src="/resources/icon-spain.png" width="30" height="30" /></a>
+
 # Predicción de demanda de alquileres por países
 
 ## 1. Introducción
@@ -85,7 +90,7 @@ Se describe la presentación final del trabajo.
 
 <hr>
 
-<a href="#"><img src="/RECURSOS/icon-britain.png" width="30" height="30" /></a>
+## English <a href="#"><img src="/resources/icon-britain.png" width="30" height="30" /></a>
 # Rental demand forecast by country
 
 ## 1. Introduction
