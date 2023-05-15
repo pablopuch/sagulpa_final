@@ -1,3 +1,6 @@
+![Texto alternativo de la imagen](./img/ejemplo.png)
+
+
 # Predicción de demanda de alquileres por países
 
 ## 1. Introducción
