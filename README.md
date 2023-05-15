@@ -4,7 +4,7 @@
     </a>
 </p>
 
-
+<a href="#"><img src="/RECURSOS/icon-spain.png" width="30" height="30" /></a> 
 # Predicción de demanda de alquileres por países
 
 ## 1. Introducción
@@ -55,3 +55,57 @@ Se incluye una lista de referencias bibliográficas o de sitios web utilizados.
 
 ## 11. Presentación final
 Se describe la presentación final del trabajo.
+
+<hr>
+
+<a href="#"><img src="/RECURSOS/icon-britain.png" width="30" height="30" /></a>
+# Rental demand forecast by country
+
+## 1. Introduction
+Brief introduction to the project.
+
+## 2. Summary
+Brief summary of the outputs or results achieved.
+
+## 3. Context and justification of the work
+The context and justification for the work is described.
+### 3.1 Objectives of the work
+The objectives of the work are described.
+### 3.2 Approach and Methodology
+The approach and methodology used in the work is described.
+### 3.3 Planning of the work
+The planning of the work is described.
+### 3.4 Systems Resources Used
+The system resources used are described.
+
+## Creation of the dataset
+### 4.1 Survey of required data
+The survey of the required data is described.
+### 4.2 Data source
+The source of the data is described.
+### 4.3 Data collection
+The data collection is described.
+
+## 5. Optimisation, standardisation and quality of the data set
+The optimisation, normalisation and quality of the dataset is described.
+
+## 6. Predictive model development
+### 6.1 Justification of the selected model
+The justification of the selected model is described.
+### 6.2 Description of the model
+The model used is described.
+
+## 7. Training and evaluation of the predictive model
+The training and evaluation of the predictive model is described.
+
+## 8. Putting into production (API and client application)
+The production release of the model is described, including the API and the client application.
+
+## 9. Conclusions and improvements to be made, alternative models
+The conclusions and improvements to be made are described, including possible alternative models.
+
+## 10. Bibliography / Web Bibliography
+A list of bibliographical references or websites used is included.
+
+## 11. Final presentation
+The final presentation of the work is described.
