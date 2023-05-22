@@ -11,9 +11,7 @@
 # Español <a href="#"><img src="/resources/icon-spain.png" width="30" height="30" /></a>
 
 # Predicción de demanda de alquileres por países
-
-## 1. Introducción
-Breve introducción del proyecto.
+En este proyecto final del curso de Especialización de Inteligencia Artificial y Big Data del centro I.E.S El Rincón en el año 2022/2023, he realizado un trabajo sobre la predicción de demanda de alquiler de bicicletas de la empresa Sagulpa por países, en el cual se pretende predecir qué cantidad de turistas van a elegir este servicio y clasificarlos por nacionalidad. 
 
 ## 2. Sumario
 Breve sumario de los productos o resultados obtenidos.
